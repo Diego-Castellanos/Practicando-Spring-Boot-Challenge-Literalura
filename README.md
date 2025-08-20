@@ -24,7 +24,7 @@ Al ejecutar la aplicación, verás un menú con las siguientes opciones:
                     4 - Listar autores vivos en un determinado año 
                     5 - Listar libros por idioma 
                     6 - Salir
-                    """
+                  """
 
 ### 1️⃣ Buscar libro por título
 
@@ -57,7 +57,6 @@ Filtra y muestra los libros según el idioma seleccionado. Los idiomas disponibl
 - `fr` - Frances
 - `pt` - Portugues
 
-![Opcion 5]
----
+
 
 ## Configura application.properties.
